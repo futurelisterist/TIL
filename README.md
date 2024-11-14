@@ -8,6 +8,9 @@
 - #### 알고리즘
   - 은행원 알고리즘
 - ##### O(N^2)
+  - 버블 정렬 (Bubble Sort)
+  - 선택 정렬 (Selection Sort)
+  - 삽입 정렬 (Insertion Sort)
 - ##### O(N)
 - ##### O(NlogN)
 
