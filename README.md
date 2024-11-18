@@ -9,8 +9,11 @@
 - ##### O(N^2)
   - [버블 정렬 (Bubble Sort)](https://github.com/Jiseokmin/TIL/blob/main/Algorithm/버블%20정렬%20(Bubble%20Sort).md)
   - [선택 정렬 (Selection Sort)](https://github.com/Jiseokmin/TIL/blob/main/Algorithm/선택%20정렬%20(Selection%20Sort).md)
-  - 삽입 정렬 (Insertion Sort)
 - ##### O(N)
 - ##### O(NlogN)
 
 ### 자료구조
+
+### 프론트엔드
+- 자바스크립트
+  - 호이스팅
