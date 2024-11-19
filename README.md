@@ -19,4 +19,4 @@
   - [호이스팅](https://github.com/Jiseokmin/TIL/blob/main/프론트엔드/자바스크립트/호이스팅.md)
 
 ### 네트워크
-- #### HTTP
+- #### [HTTP](https://github.com/Jiseokmin/TIL/blob/main/네트워크/HTTP.md)
