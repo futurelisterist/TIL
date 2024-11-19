@@ -16,4 +16,4 @@
 
 ### 프론트엔드
 - 자바스크립트
-  - 호이스팅
+  - [호이스팅](https://github.com/Jiseokmin/TIL/blob/main/프론트엔드/자바스크립트/호이스팅.md)
