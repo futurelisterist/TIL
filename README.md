@@ -22,4 +22,4 @@
 
 ### 🔸DB
 - ##### 오라클
-  - PIVOT
+  - [PIVOT](https://github.com/Jiseokmin/TIL/blob/main/DB/PIVOT.md)
