@@ -30,6 +30,25 @@ CREATE TABLE sales (
     amount NUMBER
 );
 
+
+-- 데이터 입력
+INSERT ALL
+    INTO sales (product, month, amount) VALUES ('Product A', 'Jan', 100)
+    INTO sales (product, month, amount) VALUES ('Product A', 'Jan', 200)
+    INTO sales (product, month, amount) VALUES ('Product A', 'Feb', 200)
+    INTO sales (product, month, amount) VALUES ('Product A', 'Mar', 150)
+    INTO sales (product, month, amount) VALUES ('Product A', 'Apr', 300)
+    INTO sales (product, month, amount) VALUES ('Product B', 'Jan', 120)
+    INTO sales (product, month, amount) VALUES ('Product B', 'Feb', 250)
+    INTO sales (product, month, amount) VALUES ('Product B', 'Mar', 180)
+    INTO sales (product, month, amount) VALUES ('Product B', 'Apr', 350)
+    INTO sales (product, month, amount) VALUES ('Product C', 'Jan', 90)
+    INTO sales (product, month, amount) VALUES ('Product C', 'Feb', 110)
+    INTO sales (product, month, amount) VALUES ('Product C', 'Mar', 130)
+    INTO sales (product, month, amount) VALUES ('Product C', 'Apr', 160)
+SELECT * FROM DUAL;
+
+
 -- PIVOT으로 변환
 SELECT * FROM (
     SELECT product, month, amount 
