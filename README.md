@@ -23,4 +23,4 @@
 ### 🔸DB
 - ##### 오라클
   - [PIVOT](https://github.com/Jiseokmin/TIL/blob/main/DB/PIVOT.md)
-  - [서브쿼리]()
+  - [서브쿼리](https://github.com/Jiseokmin/TIL/blob/main/DB/서브쿼리.md)
