@@ -8,8 +8,6 @@
 - ##### O(N^2)
   - [버블 정렬 (Bubble Sort)](https://github.com/futurelisterist/TIL/blob/main/Algorithm/버블%20정렬%20(Bubble%20Sort).md)
   - [선택 정렬 (Selection Sort)](https://github.com/futurelisterist/TIL/blob/main/Algorithm/선택%20정렬%20(Selection%20Sort).md)
-- ##### O(N)
-- ##### O(NlogN)
 
 ### 🔸자료구조
 - #### [해시](https://github.com/futurelisterist/TIL/blob/main/자료구조/해시.md)
