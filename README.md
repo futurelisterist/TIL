@@ -18,6 +18,7 @@
 
 ### 🔸네트워크
 - #### [HTTP](https://github.com/futurelisterist/TIL/blob/main/네트워크/HTTP.md)
+- #### [CORS](https://github.com/futurelisterist/TIL/blob/main/네트워크/CORS.md)
 
 ### 🔸DB
 - ##### 오라클
