@@ -25,6 +25,8 @@
   - [PIVOT](https://github.com/futurelisterist/TIL/blob/main/DB/PIVOT.md)
   - [서브쿼리](https://github.com/futurelisterist/TIL/blob/main/DB/서브쿼리.md)
 
+### 🔸JAVA
+- #### [JPA vs MyBatis](https://github.com/futurelisterist/TIL/blob/main/JAVA/JPA%2vs%2MyBatis.md)
 
 ### 🔸Swift
 - #### [클래스와 구조체 차이](https://github.com/futurelisterist/TIL/blob/main/Swift/클래스와%20구조체%20차이.md)
